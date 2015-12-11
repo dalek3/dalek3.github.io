@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hello GitPages"
-categories: jekyll update
+categories: blog
 ---
 
 <!-- front matter
