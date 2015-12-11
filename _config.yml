@@ -16,6 +16,3 @@ github_username:  dalek3
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
-permalink: pretty
-relative_permalinks: false
