@@ -8,7 +8,7 @@
 # Site settings
 title: Dalek's Blog
 email: lina1318@gmail.com
-description: Powered by GitHub Pages & Jekyll
+description: Powered by Jekyll
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://dalek3.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
