@@ -2,6 +2,7 @@
 layout: post
 title:  "Hello GitPages"
 categories: blog
+tags : git jekyll
 ---
 
 <!-- front matter

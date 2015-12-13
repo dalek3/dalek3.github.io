@@ -240,3 +240,31 @@
         }
     }
 }
+/*Tags from https://alexpearce.me*/
+/* Tags listing */
+.tags {
+  margin-bottom: 0;
+  margin-left: 0;
+}
+
+.tags:before {
+  content: "\f02c";
+  padding-right: 5px;
+  font-family: FontAwesome;
+  color: #aaa;
+}
+
+.tags li {
+  display: inline-block;
+  margin-bottom: 0;
+  color: #aaa;
+}
+
+/* Add a comma after each list item, except the last */
+.tags li:after {
+  content: ",";
+}
+
+.tags li:last-child:after {
+  content: "";
+}
