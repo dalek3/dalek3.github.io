@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "자료구조론 시작"
-categories: blog
-tags : DataStr
+title:  "자료구조론- 1.알고리즘(작성중)"
+categories: Study
+tags : DataStructure
 ---
 
 <!-- front matter
@@ -10,8 +10,13 @@ tags : DataStr
 	반드시 "title", "layout"필드는 반드시 들어가야한다.
 -->
 
-환영합니다.
+취업준비할 겸해서 자료구조론에대해서 포스팅 해보려고합니다.  
 
-Jekyll을 이용해서 만든 GitPages 입니다.
+주의 !!  
+이 글 내용은 블로그 지기가 아는 대로 작성하므로 정확한 내용이 아닐수 있습니다.
 
-손쉽게 포스팅 하는 법을 익힌뒤에 본격적으로 포스팅할 계획입니다.
+# 자료구조론  1.알고리즘
+
+### 알고리즘이란  
+하나의 특정 문제를 풀기 위한 명령어들의 유한집합.  
+알고리즘으는 아래 조건을 만족해야 한다.
