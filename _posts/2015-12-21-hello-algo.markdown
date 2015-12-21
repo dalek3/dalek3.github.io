@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "자료"
+title:  "자료구조론 시작"
 categories: blog
 tags : DataStr
 ---
