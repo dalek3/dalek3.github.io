@@ -35,6 +35,7 @@ tags : DataStructure
 2. 여러 가지 함수
 	- n이 충분히 클 때, 함수 값 크기는 아래와 순서와 같다.
 
+
 $$ logn < n < nlogn < n^2 < n^3 < 2^n < n! $$
 
 3. 점근 표지법
