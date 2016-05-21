@@ -2,7 +2,7 @@
 layout: post
 title:  "자료구조론- 1.알고리즘"
 categories: Study
-tags : DataStructure
+tags : DataStructure 자료구조
 ---
 <!-- front matter
 	지킬에서는 front matter 블록으로 시작되는 화일만 처리한다.
