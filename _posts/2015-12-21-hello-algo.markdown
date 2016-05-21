@@ -25,8 +25,9 @@ tags : DataStructure
 	[Tip] **프로그램** 은 반드시 **유한성** 조건을 만족하지 않는다. (ex: 운영체제)
 3. 여러 가지 함수
 	- n이 충분히 클 때, 함수 값 크기는 아래와 순서와 같다.  
-
-	$$ logn < n < nlogn < n^2 < n^3 < 2^n < n! $$
+	[연산시간의 크기 순서]
+	<span style="font-size: 15px;">
+	$$ O(1) < O(logn) < O(n) < O(nlogn) < O(n^2) < O(2^n) < O(n!)< O(n^n) $$</span>
 
 4. 점근 표지법
 	- Big oh 함수(O) - 최악의 경우
@@ -36,5 +37,5 @@ tags : DataStructure
 	- Theta 함수(Θ) - 평균의 경우
 	정의
 
-6. 알고리즘 성능 분석
-7. 순환 알고리즘
+5. 알고리즘 성능 분석
+6. 순환 알고리즘
