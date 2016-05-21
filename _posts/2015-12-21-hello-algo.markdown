@@ -9,7 +9,6 @@ tags : DataStructure
 	지킬에서는 front matter 블록으로 시작되는 화일만 처리한다.
 	반드시 "title", "layout"필드는 반드시 들어가야한다.
 -->
-
 취업준비할 겸해서 자료구조론에대해서 포스팅 해보려고합니다.  
 
 <span style="color: red">주의 !!  

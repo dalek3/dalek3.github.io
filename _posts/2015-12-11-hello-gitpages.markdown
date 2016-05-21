@@ -9,7 +9,6 @@ tags : Git Jekyll
 	지킬에서는 front matter 블록으로 시작되는 화일만 처리한다.
 	반드시 "title", "layout"필드는 반드시 들어가야한다.
 -->
-
 환영합니다.
 
 Jekyll을 이용해서 만든 GitPages 입니다.
