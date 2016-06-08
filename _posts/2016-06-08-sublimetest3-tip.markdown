@@ -10,7 +10,7 @@ tags : SublimeText3
 -->
 1. Bracket Highlighter
 
-	- link : https://github.com/facelessuser/BracketHighlighter
+	- link : [https://github.com/facelessuser/BracketHighlighter](https://github.com/facelessuser/BracketHighlighter)
 
 
 	{},[],<>,"",'',() 와 같이 열리고 닫히는 기호가 쌍으로 존재해야 하는 코드를 하이라이트
@@ -18,7 +18,7 @@ tags : SublimeText3
 
 
 2. DocBlockr
-	- link : https://github.com/spadgos/sublime-jsdocs
+	- link : [https://github.com/spadgos/sublime-jsdocs](https://github.com/spadgos/sublime-jsdocs)
 
 	Java로 프로젝트를 하면, 정해진 규칙에 의해서 철저히 주석을 다는
 	반면에, javascript에서는 소홀하게 생각하는 경우가 많다.
